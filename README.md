@@ -1,5 +1,4 @@
 # Blender-projects
 Files related to my creations in blender.
-- Different 3D objects
--  Aniamtions
+- Different own cretions of new 3D objects
 -  Virtual Room design 
